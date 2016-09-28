@@ -44,3 +44,5 @@ public class GuessGame {
     }
 
 }
+
+/// I am looking for percentage of guess right, high and low.
